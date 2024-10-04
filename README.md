@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akhilkumarb
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning Machine Learning.
+- 🌱 I’m currently learning Full Stack Web Development.
 - 💞️ I’m looking to collaborate on not decide Yet.
 - 📫 How to reach me you can send me mail.
 
